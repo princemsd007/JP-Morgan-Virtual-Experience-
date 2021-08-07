@@ -16,8 +16,6 @@ Use Perspective to create the chart for the trader’s dashboard.
 
 It focuses on using Pyhton, React, Typescript, HTML, CSS, nodejs to build web applications to display data by implementing Perspective, an open-source tool created by JPMorgan Chase, for traders so that they can identify the best moment to sell and purchase their stocks. 
 
-## Reference
-https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program
 
 ## Built with
 
@@ -29,3 +27,4 @@ https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Mor
 - [Node.js](https://nodejs.org/en/)
 
 ## License
+Prince Singh Yadav
